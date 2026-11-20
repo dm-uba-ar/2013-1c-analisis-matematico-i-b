@@ -1,8 +1,4 @@
-# Análisis matemático I (Biología) — Primer cuatrimestre de 2013
-
-## Equipo docente
-
-- **Clases teóricas:** María Elena Becker, Daniel Suárez, Claudio Schifini
+# Análisis Matemático I B — Primer cuatrimestre de 2013
 
 ## Prácticas
 
